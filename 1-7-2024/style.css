@@ -1,0 +1,29 @@
+.pen{
+    height: 300;
+    width: 300;
+    background-color: white;
+    
+}
+@font-face{
+    font-family:poppins;
+    src: url(fonts/Poppins-Bold.ttf);
+}
+.pen > h1{
+font-family:poppins ;
+color: ;
+font-size: 50px;
+text-shadow: 2px 2px 4px gray;
+}
+
+.pen > p{
+    color: ite;
+    font-family: poppins;
+    font-weight:bolder;
+    text-transform: capitalize;
+    line-height: 4em;
+}
+
+a:visited{
+    colr: ed;
+    
+}
